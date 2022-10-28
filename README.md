@@ -5,7 +5,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 
 <h1>➡<a href="https://pe-salviano.github.io/componente-do-cartao-de-visualizacao-nft-principal/" target="_blank"> 
-componente do cartão de visualização nft principal  </a>⬅</h1>
+componente do cartão de visualização nft </a>⬅</h1>
 
 Resumo do que foi utilizado para criação da página web;
 
